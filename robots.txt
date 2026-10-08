@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ciwea1.icl-growingsolutions.com/sitemap.xml
